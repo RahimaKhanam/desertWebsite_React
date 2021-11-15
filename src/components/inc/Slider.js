@@ -14,21 +14,21 @@ function Slider() {
                 </div>
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="2000">
-                        <img src={Slider1}class="d-block w-100" alt="..." />
+                        <img src={Slider1} class="d-block slider-image" alt="..." />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Slide 1</h5>
                             <p>Some representative placeholder content for the first slide.</p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src={Slider2} class="d-block w-100" alt="..." />
+                        <img src={Slider2} class="d-block slider-image" alt="..." />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Slide 2</h5>
                             <p>Some representative placeholder content for the second slide.</p>
                         </div>
                     </div>
                     <div class="carousel-item" data-bs-interval="2000">
-                        <img src={Slider3} class="d-block w-100" alt="..." />
+                        <img src={Slider3} class="d-block slider-image" alt="..." />
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Slide 3</h5>
                             <p>Some representative placeholder content for the third slide.</p>

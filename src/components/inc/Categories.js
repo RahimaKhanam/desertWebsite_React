@@ -17,7 +17,7 @@ function features() {
 
                         <div className="col-md-4">
                             <div className="card shadow">
-                                <img src={c1} className="w-100 border-bottom" alt="Features" />
+                                <img src={c1} className="cont-image border-bottom" alt="Features" />
                                 <div className="card-body">
                                     <h6>Cakes</h6>
                                     <div className="underline"></div>
@@ -31,7 +31,7 @@ function features() {
 
                         <div className="col-md-4">
                             <div className="card shadow">
-                                <img src={c2} className="w-100 border-bottom" alt="Categories" />
+                                <img src={c2} className="cont-image border-bottom" alt="Categories" />
                                 <div className="card-body">
                                     <h6>Icecream</h6>
                                     <div className="underline"></div>
@@ -45,7 +45,7 @@ function features() {
 
                         <div className="col-md-4">
                             <div className="card shadow">
-                                <img src={c3} className="w-100 border-bottom" alt="Features" />
+                                <img src={c3} className="cont-image border-bottom" alt="Features" />
                                 <div className="card-body">
                                     <h6>Sweets</h6>
                                     <div className="underline"></div>
