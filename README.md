@@ -1,4 +1,4 @@
-# Desert Website
+# Dessert Website
 
-A simple website using react, bootstrap...
+A simple website created using React, Router and Bootstrap...
 
